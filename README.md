@@ -1,5 +1,7 @@
 #  Mean and variance of a discrete  distribution
 
+# NAME   : AJMAL ALI S
+# REG NO : 212224100003  
 
 # Aim : 
 
